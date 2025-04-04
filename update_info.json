@@ -1,7 +1,8 @@
 {
-  "latestVersion": "2.5.0",
+  "latestVersion": "2.6.0",
   "forceUpdate": false,
   "whatsNew": [
+    "Image Upload Functionality Added",
     "Enhanced UI & Performance – Smoother experience with improved animations.",
     "New Features – Added advanced filtering and search options.",
     "Bug Fixes – Fixed known issues for better stability.",
